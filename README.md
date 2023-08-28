@@ -1,0 +1,1 @@
+# Classification-of-Human-Diabetic-Foot-Ulcer-using-Graph-Neural-Network
